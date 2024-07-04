@@ -1,3 +1,18 @@
+*{
+  margin: 0;
+}
 h1{
-  color: green;
+  color: green ;
+  font-style: italic;
+  font-weight:lighter;
+  font-family:'Times New Roman', Times, serif;
+  text-decoration: overline;
+  font-size: 80px;  
+}
+#heading-parent{
+  background-color: red;
+  height: 500px;
+  padding: 100px 0px;
+  width: 1100px;
+  margin: 30px auto;
 }
